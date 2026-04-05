@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Environment
+.env
+.env.example
+
+# App-specific
+claims.db
+tmp/
+*.pdf
+eval_result.txt
+eval_out.txt
+eval_static_output.txt
+report_gen.py
+rules.yaml
+
+# IDE
+.vscode/
+.idea/
